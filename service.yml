@@ -1,0 +1,6 @@
+name: serve-go
+tests:
+  primary:
+    - name: serve-go
+      build: .
+
