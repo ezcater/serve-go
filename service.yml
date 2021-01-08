@@ -1,4 +1,5 @@
 name: serve-go
+owner: sre
 tests:
   primary:
     - name: serve-go
